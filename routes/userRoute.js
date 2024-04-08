@@ -11,3 +11,4 @@ route.delete("/delete/:id", deleteUser);
 route.get("/view/:id", view);
 
 export default route;
+
